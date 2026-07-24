@@ -252,6 +252,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, feel free to reach out:
 
-- **GitHub:** [mohamedmagdy2301](https://github.com/Waleed-Almshwly)
+- **GitHub:** [Waleed-Almshwly](https://github.com/Waleed-Almshwly)
 
 
